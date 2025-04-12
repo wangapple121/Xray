@@ -1089,7 +1089,7 @@ add() {
                 get_port
                 is_https_port=$tmp_port
                 warn "端口 (80 或 443) 已经被占用, 你也可以考虑使用 no-auto-tls"
-                msg "\e[41m no-auto-tls 帮助(help)\e[0m: $(msg_ul https://233boy.com/$is_core/no-auto-tls/)\n"
+                msg "\e[41m no-auto-tls 帮助(help)\e[0m: $(msg_ul https://wangapple121.com/$is_core/no-auto-tls/)\n"
                 msg "\n Caddy 将使用非标准端口实现自动配置 TLS, HTTP:$is_http_port HTTPS:$is_https_port\n"
                 msg "请确定是否继续???"
                 pause

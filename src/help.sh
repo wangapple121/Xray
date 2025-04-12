@@ -72,7 +72,7 @@ show_help() {
         done
         msg "谨慎使用 del, ddel, 此选项会直接删除配置; 无需确认"
         msg "反馈问题) $(msg_ul https://github.com/${is_sh_repo}/issues) "
-        msg "文档(doc) $(msg_ul https://233boy.com/$is_core/$is_core-script/)"
+        msg "文档(doc) $(msg_ul https://wangapple121.com/$is_core/$is_core-script/)"
         ;;
 
     esac
